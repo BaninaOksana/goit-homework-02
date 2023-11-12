@@ -45,7 +45,7 @@ body {
     letter-spacing: 1.12px;
     text-align: center;
 }
-.header-benefits {
+.header-strategy {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -54,13 +54,64 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.paragraf-benefits {
+.header-punctuality {
+    width: 264px;
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.header-diligence {
+    width: 264px;
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.header-technologies {
+    width: 264px;
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.paragraf-strategy {
     color: #434455;
         font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+.paragraf-punctuality {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.paragraf-diligence {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.paragraf-technologies {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 button {
     background-color: #4D5AE5;
