@@ -1,16 +1,22 @@
 .logo-web {
         color: var(--IRIS, #4D5AE5);
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         width: 44px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase
 }
 .logo-studio {
         color: var(--NAVY-BLUE, #2E2F42);
-        font-family: Raleway;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         width: 71px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase
 }
 ul, ol, a, address, header, link {
     list-style-type: none;
