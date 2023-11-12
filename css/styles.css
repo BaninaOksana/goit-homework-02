@@ -1,5 +1,5 @@
 .logo-web {
-        color: var(--IRIS, #4D5AE5);
+        color: 4D5AE5;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -9,7 +9,7 @@
         text-transform: uppercase;
 }
 .logo-studio {
-        color: var(--NAVY-BLUE, #2E2F42);
+        color: #2E2F42;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -18,7 +18,7 @@
         letter-spacing: 0.03em;
         text-transform: uppercase
 }
-ul, ol, a, address, header, link {
+ul,ol {
     list-style-type: none;
 }
 nav{
@@ -38,12 +38,12 @@ body {
 }
 .main-name{
     color: var(--WHITE, #FFF);
-        font-family: Roboto;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.07;
-        letter-spacing: 1.12px;
-        text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+    text-align: center;
 }
 h3{
     width: 264px;
@@ -63,12 +63,17 @@ p {
         letter-spacing: 0.02em;
 }
 button {
-    background: #4D5AE5;
+    background-color: #4D5AE5;
+    color:#FFF;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.04em;
 }
 .button-text {
     color: #FFF;
     font-family: "Roboto", sans-serif;
-    font-size: 16px;
+    font-size: 56px;
     font-weight: 500;
     line-height: 1.5;
 }
