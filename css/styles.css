@@ -6,7 +6,7 @@
         width: 44px;
         line-height: 1.17;
         letter-spacing: 0.03em;
-        text-transform: uppercase
+        text-transform: uppercase;
 }
 .logo-studio {
         color: var(--NAVY-BLUE, #2E2F42);
@@ -36,13 +36,14 @@ body {
 .section-solution{
     background-color: #2E2F42;
 }
-h1{
+.main-name{
     color: var(--WHITE, #FFF);
         font-family: Roboto;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
         letter-spacing: 1.12px;
+        text-align: center;
 }
 h3{
     width: 264px;
@@ -62,10 +63,10 @@ p {
         letter-spacing: 0.02em;
 }
 button {
-    background: var(--IRIS, #4D5AE5);
+    background: #4D5AE5;
 }
 .button-text {
-    color: var(--WHITE, #FFF);
+    color: #FFF;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -75,7 +76,7 @@ footer {
 background-color: #2E2F42;
 }
 .footer-logo-web {
-    color: var(--IRIS, #4D5AE5);
+    color: #4D5AE5;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -83,7 +84,7 @@ background-color: #2E2F42;
         letter-spacing: 0.02em;
 }
 .footer-logo-studio {
-    color: var(--CLOUD, #F4F4FD);
+    color: #F4F4FD;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -92,7 +93,7 @@ background-color: #2E2F42;
     text-transform: uppercase;
 }
 .footer-text {
-        color: var(--CLOUD, #F4F4FD);
+        color: #F4F4FD;
         font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
