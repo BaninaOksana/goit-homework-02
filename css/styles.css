@@ -45,17 +45,17 @@ body {
     letter-spacing: 1.12px;
     text-align: center;
 }
-h3{
+.header-benefits {
     width: 264px;
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-p {
-    color: var(--SLATE, #434455);
+.paragraf-benefits {
+    color: #434455;
         font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
