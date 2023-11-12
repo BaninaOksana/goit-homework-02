@@ -45,7 +45,7 @@ body {
     letter-spacing: 1.12px;
     text-align: center;
 }
-.header-strategy {
+.head-strategy {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -54,7 +54,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.header-punctuality {
+.header-punctual {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -63,7 +63,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.header-diligence {
+.header-name-diligence {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -72,7 +72,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.header-technologies {
+.head-name-technologies {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -81,7 +81,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.paragraf-strategy {
+.paragraf-strateg {
     color: #434455;
         font-family: Roboto;
         font-size: 16px;
@@ -89,7 +89,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.paragraf-punctuality {
+.paragraf-name-punctual {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -97,7 +97,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.paragraf-diligence {
+.paragraf-diligence-name {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
