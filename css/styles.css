@@ -54,33 +54,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.header-punctual {
-    width: 264px;
-    color: #2E2F42;
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.name-diligence {
-    width: 264px;
-    color: #2E2F42;
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-.technologies-name {
-    width: 264px;
-    color: #2E2F42;
-    font-family: Roboto;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
+
 .paragraf-strateg {
     color: #434455;
         font-family: Roboto;
@@ -89,30 +63,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.name-punctual-paragraf {
-    color: #434455;
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.name-diligence-name {
-    color: #434455;
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.technolog-main {
-    color: #434455;
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+
 button {
     background-color: #4D5AE5;
     color:#FFF;
