@@ -63,7 +63,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.header-name-diligence {
+.name-diligence {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -72,7 +72,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.head-name-technologies {
+.technologies-name {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -89,7 +89,7 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.paragraf-name-punctual {
+.name-punctual-paragraf {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -97,7 +97,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.paragraf-diligence-name {
+.name-diligence-name {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
@@ -105,7 +105,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.paragraf-technologies {
+.technolog-main {
     color: #434455;
     font-family: Roboto;
     font-size: 16px;
