@@ -19,7 +19,7 @@ color: #434455;
 font-style: normal;
 }
 .link-studio {
-    color: #434455;
+    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -51,6 +51,7 @@ a:focus {
 }
 .font-address {
     font-style: normal;
+    color: #434455;
 }
 ul,ol {
     list-style-type: none;
