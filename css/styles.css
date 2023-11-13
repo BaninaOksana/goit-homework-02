@@ -18,6 +18,14 @@
         letter-spacing: 0.03em;
         text-transform: uppercase
 }
+.link-studio {
+    color: #2e2f42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+.font-address {
+    font-style: normal;
+}
 ul,ol {
     list-style-type: none;
 }
@@ -86,8 +94,30 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
+.section-team {
+
+    color: #2E2F42;
+    background-color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
 .paragraf-strategy {
     color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.list-team {
+    background-color: #FFFFFF;
+}
+.text-team {
+    color: #434455;
+    background-color: #FFFFFF;
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
