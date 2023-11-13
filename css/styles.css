@@ -33,6 +33,9 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+.section-team {
+    background-color: #F4F4FD;
+}
 .section-solution{
     background-color: #2E2F42;
 }
@@ -55,14 +58,13 @@ body {
     letter-spacing: 0.02em;
 }
 .header-team {
-    width: 264px;
     color: #2E2F42;
-    background: #F4F4FD;
     font-family: Roboto;
     font-size: 36px;
     font-weight: 500;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
     text-transform: capitalize;
 }
 .header-punctuality {
