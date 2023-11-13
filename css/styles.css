@@ -206,7 +206,8 @@ background-color: #2E2F42;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
 }
 .footer-logo-studio {
     color: #F4F4FD;
@@ -225,6 +226,9 @@ background-color: #2E2F42;
         line-height: 1.5;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+}
+.nav-span {
+    color: #2e2f42;
 }
 span{
     color: #f4f4fd;
