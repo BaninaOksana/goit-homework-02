@@ -18,6 +18,21 @@ letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
 }
+.link-studio {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.link-portfolio {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 a:hover {
         color: #404bbf;
 }
@@ -33,20 +48,6 @@ a:focus {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase
-}
-.link-studio {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-.link-portfolio {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
 }
 .font-address {
     font-style: normal;
