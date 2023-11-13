@@ -3,7 +3,6 @@
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        width: 44px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
@@ -12,11 +11,11 @@
 color: #434455;
 }
 .link-address {
-line-height: 1.5;
-font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;
-font-style: normal;
+    line-height: 1.5;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-style: normal;
 }
 .link-studio {
     color: #2e2f42;
@@ -44,7 +43,6 @@ a:focus {
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        width: 71px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase
