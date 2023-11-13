@@ -63,7 +63,9 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+a {
+    text-decoration: none;
+}
 button {
     background-color: #4D5AE5;
     color:#FFF;
