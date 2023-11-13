@@ -110,6 +110,14 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
+.section-portfolio {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
 .paragraf-strategy {
     color: #434455;
     font-family: Roboto;
