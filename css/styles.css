@@ -1,5 +1,5 @@
 .logo-web {
-        color: 4D5AE5;
+        color: #4D5AE5;
         font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -7,6 +7,13 @@
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
+}
+.link-name-studio {
+line-height: 1.5;
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #434455;
+font-style: normal;
 }
 a:hover {
         color: #404bbf;
@@ -197,8 +204,8 @@ button:focus {
 button:hover {
     background-color: #404BBF;
 }
-footer {
-background-color: #2E2F42;
+.footer {
+    background-color: #2E2F42;
 }
 .footer-logo-web {
     color: #4D5AE5;
