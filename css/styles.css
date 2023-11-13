@@ -45,7 +45,7 @@ body {
     letter-spacing: 1.12px;
     text-align: center;
 }
-.head-strategy {
+.head-benefits {
     width: 264px;
     color: #2E2F42;
     font-family: Roboto;
@@ -75,7 +75,7 @@ button {
 .button-text {
     color: #FFF;
     font-family: "Roboto", sans-serif;
-    font-size: 56px;
+    font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     cursor: pointer;
