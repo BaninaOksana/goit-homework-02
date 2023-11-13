@@ -33,7 +33,7 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-.section-team {
+#team {
     background-color: #F4F4FD;
 }
 .section-solution{
@@ -70,6 +70,16 @@ body {
 .header-punctuality {
     width: 264px;
     color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.head-team {
+    width: 264px;
+    color: #2E2F42;
+    background-color: #FFFFFF;
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
