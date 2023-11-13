@@ -63,7 +63,7 @@ body {
     background-color: #2E2F42;
 }
 .main-name{
-    color: var(--WHITE, #FFF);
+    color: #FFF;
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
