@@ -8,6 +8,12 @@
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
+a:hover {
+        color: #404bbf;
+}
+a:focus {
+    color: #404bbf;
+}
 .logo-studio {
         color: #2E2F42;
         font-family: "Raleway", sans-serif;
@@ -21,6 +27,15 @@
 .link-studio {
     color: #2e2f42;
     font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.link-portfolio {
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .font-address {
